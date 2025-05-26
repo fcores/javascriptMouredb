@@ -1,3 +1,1 @@
 # REPO DEDICADO A JS
-
-Leccion 1
